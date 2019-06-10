@@ -1,0 +1,98 @@
+@media (max-width: 767.98px) {
+
+	#circle {
+		background-color: #c62046;
+	}
+
+	.social {
+		text-align: center;
+	}
+
+	.social marquee {
+		width: 100%;
+
+	}
+
+	.bg-images span {
+		display: none;
+	}
+
+	.part {
+		padding: 100px 15px;
+	}
+
+	.part2 {
+		padding: 50px 15px;
+	}
+
+	.about {
+		width: 100%;
+		text-align: justify;
+	}
+
+	.immediately .row div {
+		margin: 25px 0;
+	}
+
+	.order-container .order-inside-container {
+		padding: 0 10px;
+	}
+
+	.order-container .order-inside-container .order-form {
+		width: 100%;
+	}
+
+	.order-container .order-inside-container .order-form form {
+		width: 100%;
+	}
+
+	.order-container .order-inside-container .compatible {
+		width: 100%;
+	}
+
+	.order-container .order-inside-container .compatible ol li {
+		margin: 25px 0;
+	}
+
+	.order {
+		display: none;
+	}
+
+	.mob {
+		width: 100vw;
+		display: block;
+		position: fixed;
+		bottom: -90px;
+		z-index: 2;
+	}
+
+	.mob .btn-contact-us .btn {
+		width: 100%;
+	}
+
+	footer {
+		padding-bottom: 80px;
+	}
+
+	#wowslider-container1 {
+		height: 402px !important;
+	}
+
+	#wowslider-container1 .ws_images {
+		height: 402px !important;
+	}
+
+	#wowslider-container1 img {
+		height: 402px !important;
+	}
+
+	#wowslider-container1 .ws_images .ws_list img,
+	#wowslider-container1 .ws_images > div > img {
+		height: 402px !important;
+	}
+
+	#wowslider-container1 .ws_images > div > img {
+		height: 402px !important;
+	}
+
+}
